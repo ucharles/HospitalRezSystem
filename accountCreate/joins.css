@@ -1,0 +1,110 @@
+html{color:#000;
+		background:#fff;
+		padding:20px 0;
+		font: 15px/18px "HY³ª¹«M", "HYNAMUM", "±¼¸²", "Gulim", Verdan, Arial, Tahoma;
+}
+
+#wrap {width:960px;
+			margin:0 auto;
+			background-color:#FFFFFF;
+}
+
+#top{width:950px;
+		color:#eee;
+		padding:0 10px 15px 0;
+		text-align:right;
+		font-weight:bold;
+}
+
+#top a{ color:#0F0F0F;
+			text-decoration:none;
+			padding:5px;
+}
+
+#top a:hover{background-color:#C29F00;}
+
+#header{width:100%;
+			height:135px;
+			background-color:#ffffff;
+			border-bottom:1px solid #999;
+			border-radius:15px 15px 0 0;
+}
+
+#header_top {height:100px}
+
+#header_left{ width:500px;
+					float:left;
+					display:inline;
+					color:#fff;
+					padding:10px;
+}
+#header_right{width:400px;
+					 float:right;
+					 text-align:right;
+					 display:inline;
+					 padding:40px 30px 0 0;
+}
+
+#navbar {width:960px;
+				height:30px;
+				background-color:#f1f1f1;
+}
+
+#navbar ul{margin:0; padding:20;}
+#navbar ul li{float:left;}
+#navbar ul li a{color:#FFFFFF;
+						background-color:#f1f1f1;
+						display:block;
+						width:115px;
+						text-align:center;
+						padding:0px 30px;
+						font:bold 12px/30px Tahoma;
+						text-decoration:none;
+						margin-right:1px
+}
+#navbar ul li a.selected {background-color:#b9062f;}
+#navbar ul li a:hover {background-color:#8cbae8;}
+
+#content { width:960px;
+				height:1000px;
+				margin-top:50px;
+				background-color:#FFFFFF;
+				clear:both;
+				margin-left:184px;
+				text-align:center;
+				display:block;
+				overflow:auto;
+}
+
+#left_content{	width:130px;
+					float:left;
+					display:inline;
+					color:#fff;
+					padding:10px;
+}
+
+#main_content{ width:860px;
+					   float:none;
+					   text-align:center;
+					   display:inline;
+						
+}
+
+#right_content{margin-left:10px;
+					 width:20px;
+					 float:right;
+					 text-align:right;
+					 display:inline;
+					 padding:40px 30px 0 0;
+}
+
+
+#footer{	width:960px;
+			background-color:#ffffff;
+			color:#000000;
+			clear:both;
+			margin-left:184px;
+			text-align:center;
+			display:block;
+			overflow:auto;
+}
