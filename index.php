@@ -122,8 +122,8 @@
 		<tr>
 			<td>&nbsp;&nbsp;&nbsp; copyright 2013 evermedi All right reserved. <br>
 			 &nbsp;&nbsp;&nbsp;Contact evermedi@naver.com for more information.<br>
-			 &nbsp;&nbsp;&nbsp;사업자 등록 번호: 129-81-84391 / 통신판매업 신고 제 20006-040호<br>
-			&nbsp;&nbsp;&nbsp;개인정보관리 책임자: 나종민/ 대표자: 변호숙
+			 &nbsp;&nbsp;&nbsp;사업자 등록 번호: 000-000-00000 / 통신판매업 신고 제 00000-000호<br>
+			&nbsp;&nbsp;&nbsp;개인정보관리 책임자: 홍길동/ 대표자: 홍길동
 			</td>
 			<td align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;programed by MJmedi team<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;major : computer engineering<br>
